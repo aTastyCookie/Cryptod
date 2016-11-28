@@ -1,3 +1,3 @@
 # Cryptod
 
-Hidden launcher for miner with some hackers ideas)
+cryptolauncher for fake work
